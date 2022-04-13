@@ -32,6 +32,7 @@ hs_err_pid*
 
 #MacOS and Other
 *~
+*.~
 .DS_Store
 gradle.properties
 .vscode
