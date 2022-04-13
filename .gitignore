@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+# Git
+.git/
+
+# Netbeans
+nbproject/private/
+build/
+dist/
+bin/
+
 # Log file
 *.log
 
